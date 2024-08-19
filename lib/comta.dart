@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:practica2/selectiondisplay.dart';
 import 'clase__pizza.dart';
@@ -85,3 +86,4 @@ class _HomePageState extends State<HomePage1> {
     );
   }
 }
+*/

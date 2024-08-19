@@ -1,6 +1,7 @@
 import 'clase__producto.dart';
 
 class Vinos extends Productos {
+
   Vinos(
       {required super.nombre_p,
       required super.precio,
